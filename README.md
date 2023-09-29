@@ -1,3 +1,4 @@
 # democode2
 my first project
-elakkiya
+by luck
+
